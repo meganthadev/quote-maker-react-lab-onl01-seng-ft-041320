@@ -1,4 +1,3 @@
-  
 import React, { Component } from 'react';
 import QuoteForm from './components/QuoteForm';
 import Quotes from './containers/Quotes'
